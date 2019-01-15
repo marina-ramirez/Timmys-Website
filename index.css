@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+    margin: 0;
+}
+html,body{
+    height:100%;
+}
+.box{background: red;
+    height: 200px;
+}
+h1 {
+    color: red;
+    font-weight: lighter;
+}
+p {font-weight: thick
+}
+div{
+	background-color: green;
+	width: 100px;
+	padding: 50px blue;
+	border: 50px red; 
+}
