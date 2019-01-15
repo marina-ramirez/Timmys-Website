@@ -4,17 +4,16 @@
 html,body{
     height:100%;
 }
-.redbox{background-color: red;
+.box1{background-color: red;
     height: 200px;
     width: 200px;
 }
-.greenbox {background-color: green;
-    height: 100px;
-    width: 100px;}
-
-.bluebox{background-color: blue;
+.box2{background-color: blue;
     height: 150px;
     width: 150px;}
+.box3 {background-color: green;
+    height: 100px;
+    width: 100px;}
 h1 {
     color: red;
     font-weight: lighter;
